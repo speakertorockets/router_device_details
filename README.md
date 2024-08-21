@@ -1,0 +1,1 @@
+# router_device_details
